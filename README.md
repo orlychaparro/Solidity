@@ -7,7 +7,7 @@
 * Canal de Discord de Blockchain: https://discord.gg/HYzWz8YHva
 
 
-# Curso de Smart Contracts y Blockchain de la A a la Z
+# Curso de Smart Contracts y Blockchain de la A a la Z ok
 
 * ¿Quieres aprender a programar en el lenguaje que permite crear Smart Contracts?
 
