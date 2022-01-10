@@ -1,0 +1,8 @@
+Esta es una prueba de: 
+1 Creaci{on de archivo txt
+2 Hacer add en git
+3 commit en git
+4 push en git
+5 ver actualizacion en git
+ok
+
